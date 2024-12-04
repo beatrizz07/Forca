@@ -91,10 +91,10 @@ while True:
             palavra_oculta[i] = palavra[i]
 
 if vida == 0:
-  print("Fim de jogo você perdeu")
+  print("Fim de jogo você perdeu.")
 if "?" not in palavra_oculta:
-  print ('parabens você venceu o jogo')
-  print(f'palavra {palavra} descoberta')
+  print ('parabens você venceu o jogo!')
+  print(f'palavra {palavra} descoberta.')
 
      
     
