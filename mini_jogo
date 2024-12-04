@@ -1,6 +1,6 @@
 import random
 
-palavras = ['engenharia']
+palavras = ['Engenharia']
 palavra = random.choice(palavras)
 palavra_oculta=[]
 
